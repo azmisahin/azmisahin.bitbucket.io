@@ -66,6 +66,7 @@ class App extends Component {
                       <h2>Travis CI</h2>
                       <p>Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you'll be testing your code in minutes! .</p>
                       <p><a className="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                      <img src='https://travis-ci.org/azmisahin/azmisahin.bitbucket.io.svg?branch=master' alt='CI' />
                   </div>
               </div>
               <hr/>
