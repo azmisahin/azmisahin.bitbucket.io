@@ -54,7 +54,7 @@ class App extends Component {
               <div className="row">
                   <div className="col-md-4">
                       <h2>NodeJS</h2>
-                      <p>Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world. </p>
+                      <p>Node.js® is a JavaScript runtime. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world. </p>
                       <p><a className="btn btn-secondary" href="https://nodejs.org/" role="button">View details &raquo;</a></p>
                   </div>
                   <div className="col-md-4">
@@ -65,8 +65,10 @@ class App extends Component {
                   <div className="col-md-4">
                       <h2>Travis CI</h2>
                       <p>Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI and you'll be testing your code in minutes! .</p>
-                      <p><a className="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
                       <img src='https://travis-ci.org/azmisahin/azmisahin.bitbucket.io.svg?branch=master' alt='CI' />
+                      <p></p>
+                      <p><a className="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                      
                   </div>
               </div>
               <hr/>
