@@ -1,0 +1,18 @@
+/*
+    ████████████████████████████████████████████████████████████████████████████████████████████████████
+    * Name          :   azmisahin.bitbucket.io App Css
+    * Version       :   @package.js.version
+    * Description   :   Node Base React App Css
+    * Author        :   Azmi ŞAHİN <bilgi@azmisahin.com>
+    * Licence       :   MIT
+    ════════════════════════════════════════════════════════════════════════════════════════════════════
+    * Package       :   No Package / Web Application
+    * Repository    :   https://bitbucket.org/azmisahin/azmisahin.bitbucket.io.git
+    * Homepage      :   https://azmisahin.bitbucket.io
+    ████████████████████████████████████████████████████████████████████████████████████████████████████
+*/
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}

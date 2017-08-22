@@ -1,0 +1,31 @@
+{
+  "name": "azmisahin.bitbucket.io",
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/azmisahin/azmisahin.bitbucket.io.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "React",
+    "Domain",
+    "Driven",
+    "Design"
+  ],
+  "author": "Azmi ŞAHİN <bilgi@azmisahin.com>",
+  "license": "MIT",
+  "homepage": "https://azmisahin.bitbucket.io",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
